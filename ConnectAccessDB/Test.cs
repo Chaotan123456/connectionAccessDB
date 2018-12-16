@@ -8,5 +8,9 @@ namespace ConnectAccessDB
 {
     class Test
     {
+        public void test2()
+        {
+
+        }
     }
 }
