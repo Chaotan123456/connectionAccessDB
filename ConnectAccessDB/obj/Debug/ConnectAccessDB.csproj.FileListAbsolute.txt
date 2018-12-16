@@ -1,0 +1,10 @@
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\bin\Debug\ConnectAccessDB.exe.config
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\bin\Debug\ConnectAccessDB.exe
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\bin\Debug\ConnectAccessDB.pdb
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.Form1.resources
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.Properties.Resources.resources
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.csproj.GenerateResource.Cache
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.csproj.CoreCompileInputs.cache
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.exe
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.pdb
+C:\Users\chao.tan\source\repos\ConnectAccessDB\ConnectAccessDB\obj\Debug\ConnectAccessDB.csprojResolveAssemblyReference.cache
